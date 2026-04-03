@@ -31,7 +31,7 @@ const Navbar = () => {
     <nav className={`navbar${scrolled ? ' scrolled' : ''}`}>
       <div className="container navbar-inner">
         <NavLink to="/" className="navbar-logo">
-          dev<span className="accent">.</span>portfolio
+          Marina<span className="accent">.</span>
         </NavLink>
 
         <button
