@@ -27,7 +27,7 @@ const Footer = () => {
             <MailIcon size={20} />
           </a>
         </div>
-        <p>© {year} Your Name · Built with React &amp; Vite</p>
+        <p>© {year} Marina Ljuboja · Built with React &amp; Vite</p>
       </div>
     </footer>
   )
