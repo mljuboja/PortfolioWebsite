@@ -8,7 +8,7 @@ const Footer = () => {
       <div className="container footer-inner">
         <div className="footer-socials">
           <a
-            href="https://github.com/yourusername"
+            href="https://github.com/mljuboja"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="GitHub"
@@ -16,14 +16,14 @@ const Footer = () => {
             <GithubIcon size={20} />
           </a>
           <a
-            href="https://linkedin.com/in/yourprofile"
+            href="https://www.linkedin.com/in/marina-ljuboja-34247412"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="LinkedIn"
           >
             <LinkedinIcon size={20} />
           </a>
-          <a href="mailto:you@example.com" aria-label="Email">
+          <a href="mailto:mljuboja21@gmail.com" aria-label="Email">
             <MailIcon size={20} />
           </a>
         </div>

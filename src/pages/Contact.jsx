@@ -68,10 +68,10 @@ const Contact = () => {
                   <span className="contact-link-icon">
                     <MailIcon size={16} />
                   </span>
-                  you@example.com
+                  mljuboja21@gmail.com
                 </a>
                 <a
-                  href="https://linkedin.com/in/yourprofile"
+                  href="https://www.linkedin.com/in/marina-ljuboja-34247412"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="contact-link"
@@ -82,7 +82,7 @@ const Contact = () => {
                   linkedin.com/in/yourprofile
                 </a>
                 <a
-                  href="https://github.com/yourusername"
+                  href="https://github.com/mljuboja"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="contact-link"
@@ -90,7 +90,7 @@ const Contact = () => {
                   <span className="contact-link-icon">
                     <GithubIcon size={16} />
                   </span>
-                  github.com/yourusername
+                  github.com/mljuboja
                 </a>
               </div>
             </div>

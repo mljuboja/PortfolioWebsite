@@ -7,7 +7,7 @@ const Home = () => {
       <section className="hero">
         <div className="hero-content container">
           <p className="hero-greeting">Hi, I'm</p>
-          <h1 className="hero-name">Your Name</h1>
+          <h1 className="hero-name">Marina Ljuboja</h1>
           <h2 className="hero-title">
             Computer Science Graduate Student &amp; Aspiring Developer
           </h2>
@@ -29,7 +29,7 @@ const Home = () => {
 
           <div className="hero-socials">
             <a
-              href="https://github.com/yourusername"
+              href="https://github.com/mljuboja"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="GitHub"
@@ -37,7 +37,7 @@ const Home = () => {
               <GithubIcon size={18} />
             </a>
             <a
-              href="https://linkedin.com/in/yourprofile"
+              href="https://www.linkedin.com/in/marina-ljuboja-34247412"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="LinkedIn"

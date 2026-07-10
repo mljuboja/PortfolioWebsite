@@ -14,7 +14,7 @@ const About = () => {
             {/* Left column: avatar + quick info */}
             <div className="about-avatar-col">
               <div className="avatar-box" aria-hidden="true">
-                YN
+                ML
               </div>
               <div className="about-quick-info">
                 <div className="info-item">
@@ -31,7 +31,7 @@ const About = () => {
                 </div>
                 <div className="info-item">
                   <MailIcon size={15} />
-                  <span>you@example.com</span>
+                  <span>mljuboja21@gmail.com</span>
                 </div>
               </div>
             </div>
@@ -60,7 +60,7 @@ const About = () => {
 
               <div className="about-highlights">
                 <div className="highlight-card">
-                  <div className="number">10+</div>
+                  <div className="number">5+</div>
                   <div className="label">Projects Completed</div>
                 </div>
                 <div className="highlight-card">
@@ -69,7 +69,7 @@ const About = () => {
                 </div>
                 <div className="highlight-card">
                   <div className="number">2026</div>
-                  <div className="label">Expected Grad.</div>
+                  <div className="label">Graduated</div>
                 </div>
               </div>
             </div>

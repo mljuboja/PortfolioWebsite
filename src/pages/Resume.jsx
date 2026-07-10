@@ -11,7 +11,7 @@ const Resume = () => {
         <div className="container">
           <div className="section-header">
             <span className="section-label">Career</span>
-            <h2 className="section-title">Resume</h2>
+            <h2 className="section-title">Resume Highlights</h2>
           </div>
 
 
