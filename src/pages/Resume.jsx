@@ -14,40 +14,13 @@ const Resume = () => {
             <h2 className="section-title">Resume</h2>
           </div>
 
-          <div className="resume-container">
-            <div className="resume-cta-card">
-              <h3>Want a copy?</h3>
-              <p>
-                Download my resume as a PDF or open it in your browser. Last
-                updated April 2026.
-              </p>
-              <div className="resume-actions">
-                <a
-                  href={RESUME_URL}
-                  download
-                  className="btn btn-primary"
-                >
-                  <DownloadIcon size={16} />
-                  Download PDF
-                </a>
-                <a
-                  href={RESUME_URL}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="btn btn-outline"
-                >
-                  <ExternalLinkIcon size={15} />
-                  View Online
-                </a>
-              </div>
-            </div>
 
             <div className="resume-highlights">
               <div className="resume-highlight">
                 <h4>Education</h4>
                 <ul className="resume-list">
                   <li>M.S. Computer Science — DePaul University (2024–2026)</li>
-                  <li>B.S. [Your Undergraduate Degree]</li>
+                  <li>B.S. Applied Mathematics — Washington State University (2011-2014)</li>
                 </ul>
               </div>
               <div className="resume-highlight">
@@ -77,7 +50,6 @@ const Resume = () => {
               </div>
             </div>
           </div>
-        </div>
       </section>
     </main>
   )
