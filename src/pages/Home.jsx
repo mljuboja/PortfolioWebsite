@@ -9,13 +9,13 @@ const Home = () => {
           <p className="hero-greeting">Hi, I'm</p>
           <h1 className="hero-name">Marina Ljuboja</h1>
           <h2 className="hero-title">
-            Computer Science Graduate Student &amp; Aspiring Developer
+            Computer Science Graduate Student &amp; Aspiring Software Engineer
           </h2>
           <p className="hero-description">
             I build clean, purposeful software with a focus on solving real
             problems. Currently completing my M.S. in Computer Science at DePaul
             University and actively seeking opportunities in software
-            development.
+            engineering.
           </p>
 
           <div className="hero-actions">

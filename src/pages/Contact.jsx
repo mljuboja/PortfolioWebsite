@@ -64,7 +64,7 @@ const Contact = () => {
               </p>
 
               <div className="contact-links">
-                <a href="mailto:you@example.com" className="contact-link">
+                <a href="mailto:mljuboja21@gmail.com" className="contact-link">
                   <span className="contact-link-icon">
                     <MailIcon size={16} />
                   </span>
@@ -79,7 +79,7 @@ const Contact = () => {
                   <span className="contact-link-icon">
                     <LinkedinIcon size={16} />
                   </span>
-                  linkedin.com/in/yourprofile
+                  linkedin.com/in/marina-ljuboja-34247412
                 </a>
                 <a
                   href="https://github.com/mljuboja"
