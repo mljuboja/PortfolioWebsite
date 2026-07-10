@@ -7,14 +7,14 @@ const PROJECTS = [
     description:
       'This portfolio site — built with React, Vite, and vanilla CSS. Features client-side routing via React Router and is deployed on GitHub Pages.',
     tags: ['React', 'Vite', 'JavaScript', 'CSS', 'GitHub Pages'],
-    github: 'https://github.com/yourusername/PortfolioWebsite',
+    github: 'https://github.com/mljuboja/PortfolioWebsite',
     live: null,
   },
   {
     id: 2,
-    title: 'Task Manager App',
+    title: 'Calendar App',
     description:
-      'A simple task management application with add, complete, filter, and delete functionality. Uses localStorage for persistence across sessions.',
+      'A calendar application with add, filter, and delete functions. Uses localStorage for persistence across sessions.',
     tags: ['React', 'Hooks', 'LocalStorage', 'CSS'],
     github: 'https://github.com/yourusername/task-manager',
     live: null,
