@@ -2,39 +2,32 @@ const SKILL_CATEGORIES = [
   {
     id: 'languages',
     title: 'Languages',
-    skills: ['JavaScript', 'Python', 'Java', 'HTML5', 'CSS3', 'SQL'],
+    skills: ['C', 'Java', 'JavaScript', 'Python', 'SQL'],
   },
   {
     id: 'frameworks',
     title: 'Frameworks & Libraries',
-    skills: ['React', 'Node.js', 'Express', 'Vite'],
+    skills: ['React', 'Tailwind CSS', 'Spring Boot', 'JUnit', 'Selenium'],
+  },
+  {
+    id: 'platforms',
+    title: 'Platforms & Technologies',
+    skills: ['Node.js', 'RESTful APIs', 'Microsoft Azure'],
   },
   {
     id: 'tools',
-    title: 'Tools & Platforms',
-    skills: ['Git', 'GitHub', 'VS Code', 'Postman', 'npm'],
+    title: 'Development Tools',
+    skills: ['Git', 'GitHub', 'GitHub Actions', 'CI/CD', 'Vite', 'npm', 'VS Code', 'Figma', 'Docker'],
   },
   {
     id: 'concepts',
     title: 'Concepts',
-    skills: [
-      'REST APIs',
-      'Responsive Design',
-      'Object-Oriented Programming',
-      'Data Structures',
-      'Algorithms',
-      'Version Control',
-    ],
+    skills: ['Object-Oriented Programming', 'Data Structures', 'Algorithms', 'Version Control'],
   },
   {
     id: 'databases',
     title: 'Databases',
-    skills: ['MySQL', 'SQLite', 'Firebase'],
-  },
-  {
-    id: 'learning',
-    title: 'Currently Learning',
-    skills: ['TypeScript', 'Docker', 'Testing (Jest)'],
+    skills: ['MySQL', 'MongoDB'],
   },
 ]
 
