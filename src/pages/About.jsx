@@ -23,7 +23,7 @@ const About = () => {
                 </div>
                 <div className="info-item">
                   <BookOpenIcon size={15} />
-                  <span>M.S. Computer Science</span>
+                  <span>M.S. Software Engineering</span>
                 </div>
                 <div className="info-item">
                   <BriefcaseIcon size={15} />
@@ -40,7 +40,7 @@ const About = () => {
             <div className="about-bio">
               <h2>Nice to meet you.</h2>
               <p>
-                I'm a graduate student in Computer Science at DePaul University
+                I'm a graduate student in Software Engineering at DePaul University
                 with a passion for building software that's clean, functional,
                 and user-friendly. My background includes coursework in data
                 structures, algorithms, software engineering, and web
