@@ -68,7 +68,7 @@ const About = () => {
                   <div className="label">Years Coding</div>
                 </div>
                 <div className="highlight-card">
-                  <div className="number">2026</div>
+                  <div className="number">2025</div>
                   <div className="label">Graduated</div>
                 </div>
               </div>
